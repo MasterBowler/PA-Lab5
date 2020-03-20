@@ -5,7 +5,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- *
+ * A document is uniquely identified by its id.
+ * It has a name, a location(a path on the local device or an URL) and user defined tags.
  */
 public class Document implements Serializable {
 
@@ -13,6 +14,12 @@ public class Document implements Serializable {
     private String name;
     private String location;
 
+    /**
+     * Creates a document
+     * @param id unique id
+     * @param name name of the document
+     * @param location path or URL
+     */
     public Document(String id, String name, String location) {
         this.id = id;
         this.name = name;
@@ -21,6 +28,11 @@ public class Document implements Serializable {
 
     private Map<String, Object> tags = new HashMap<>();
 
+    /**
+     * add a new tag to the document
+     * @param key
+     * @param obj
+     */
     public void addTag(String key, Object obj) {
         tags.put(key,obj);
     }

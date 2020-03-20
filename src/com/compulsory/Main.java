@@ -5,9 +5,6 @@ import java.net.URISyntaxException;
 
 //https://profs.info.uaic.ro/~acf/java/labs/slides/lab_05.pdf
 
-/**
- *
- */
 public class Main {
 
     public static void main(String args[]) {
