@@ -4,6 +4,9 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *
+ */
 public class Catalog implements Serializable {
     private String name;
     private String path;

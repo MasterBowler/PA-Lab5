@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84dde4fc-eafe-4e16-ae0b-6c1fbd2a3f05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programare Avansata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Programare Avansata.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Catalog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Catalog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/CatalogUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/CatalogUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Document.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/compulsory/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/compulsory/CatalogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/CatalogUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/compulsory/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/compulsory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584700936781</updated>
-      <workItem from="1584700938593" duration="10659000" />
+      <workItem from="1584700938593" duration="11524000" />
     </task>
     <servers />
   </component>
@@ -78,22 +83,22 @@
     </state>
     <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584717663938" />
     <state x="2685" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1584713798287" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1584721014460">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1584721779097">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584721014460" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1584721014460">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584721779097" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1584721779097">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584721014460" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1584721014460">
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584721779097" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1584721779097">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584721014460" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1584721014460">
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584721779097" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1584721779097">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584721014460" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584721779097" />
     <state x="461" y="167" key="SettingsEditor" timestamp="1584720047816">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

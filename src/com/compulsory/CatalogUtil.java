@@ -5,6 +5,9 @@ import java.io.*;
 import java.net.URI;
 import java.net.URISyntaxException;
 
+/**
+ *
+ */
 public class CatalogUtil {
 
     public static void save(Catalog catalog) throws IOException {

@@ -4,6 +4,10 @@ import java.io.IOException;
 import java.net.URISyntaxException;
 
 //https://profs.info.uaic.ro/~acf/java/labs/slides/lab_05.pdf
+
+/**
+ *
+ */
 public class Main {
 
     public static void main(String args[]) {
@@ -28,7 +32,7 @@ public class Main {
     private void testLoadView() {
         Catalog catalog = null;
         try {
-            catalog = CatalogUtil.load("d:/java/catalog.ser");
+            catalog = CatalogUtil.load("D:/java/catalog.ser");
         } catch (InvalidCatalogException e) {
             e.printStackTrace();
         } catch (IOException e) {
