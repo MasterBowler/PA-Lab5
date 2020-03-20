@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84dde4fc-eafe-4e16-ae0b-6c1fbd2a3f05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Catalog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Catalog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/CatalogUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/CatalogUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Document.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programare Avansata/com/compulsory/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/compulsory/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/Catalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/compulsory/CatalogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/CatalogUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/compulsory/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/compulsory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584700936781</updated>
-      <workItem from="1584700938593" duration="11524000" />
+      <workItem from="1584700938593" duration="11595000" />
     </task>
     <servers />
   </component>
